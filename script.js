@@ -9,6 +9,7 @@ function multiply(n,x,res){
     k=parseFloat(document.getElementById(x).value);
     document.getElementById(res).innerHTML=y*k;
     console.log(y*k)
+    somme();
 
 
 
